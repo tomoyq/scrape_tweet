@@ -1,3 +1,3 @@
 venv/
-scrapetweet/cookies
-scrapetweet/*.png
+scrape_tweet/cookies
+scrape_tweet/*.png
